@@ -1,4 +1,4 @@
-package com.hello;
+package com.n24labs.github;
 
 import com.facebook.react.ReactActivity;
 
