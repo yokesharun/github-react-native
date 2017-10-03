@@ -37,6 +37,3 @@ Thanks! 🙌
 ## License
 
 Licensed under the [MIT license](http://opensource.org/licenses/MIT).
-
-
-![alt tag](https://github.com/yokesharun/simple-github-react-native/blob/master/github-profiles.jpeg)
