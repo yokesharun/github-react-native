@@ -4,6 +4,8 @@ This Android app is build with React Native using V3 Github API's.
 
 Developed and maintained by [Arun Yokesh](https://www.facebook.com/ayokesh).
 
+![Enjoy React Native](https://facebook.github.io/react-native/releases/0.33/img/react-native-congratulations.png)
+
 ## Installation
 
 There are some dependencies you need to install before running this application.
