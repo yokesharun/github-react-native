@@ -30,7 +30,7 @@ react-native run-android
 
 ## About
 
-SimpleImage is developed and maintained by [Arun Yokesh](https://www.facebook.com/ayokesh).
+SimpleGithubReactNative is developed and maintained by [Arun Yokesh](https://www.facebook.com/ayokesh).
 
 Contributions are appreciated!
 
